@@ -1,6 +1,6 @@
 # Зміст
 
-
+[Розум Рою](./index.md)
 [Передмова](./preface.md)
 [Вступ](./introduction.md)
 
