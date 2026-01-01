@@ -1,0 +1,4 @@
+cd C:\1
+git add .
+git commit -m "Опис змін"
+git push
