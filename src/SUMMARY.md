@@ -88,10 +88,7 @@
 
 ---
 
-[Післямова](./afterword.md)
-
----
-
 # Додатки
 
+- [Післямова](./afterword.md)
 - [Додаток C: Міграція з C на Rust](./appendices/appendix-c-migration.md)
