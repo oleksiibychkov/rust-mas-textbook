@@ -301,7 +301,7 @@ fn main() {
 
 Уявіть місію з трьома waypoints. Без spans:
 
-```
+```text
 INFO: Moving to waypoint
 INFO: Scanning area
 INFO: Moving to waypoint
@@ -310,7 +310,7 @@ INFO: Scanning area
 
 Який waypoint? Неясно. З spans:
 
-```
+```rust
 INFO mission{id=ALPHA-001}:waypoint{n=1}: Moving
 INFO mission{id=ALPHA-001}:waypoint{n=1}:scan: Scanning
 INFO mission{id=ALPHA-001}:waypoint{n=2}: Moving

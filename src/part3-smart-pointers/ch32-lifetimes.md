@@ -6,7 +6,7 @@
 
 Але раптом з'являється помилка:
 
-```
+```text
 error[E0106]: missing lifetime specifier
  --> src/main.rs:1:33
   |

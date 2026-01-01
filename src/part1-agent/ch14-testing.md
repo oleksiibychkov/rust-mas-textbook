@@ -53,7 +53,7 @@ fn inactive_agent_cannot_execute_mission() {
 
 Цей тест впаде миттєво після помилкової "оптимізації". Розробник побачить:
 
-```
+```rust
 test inactive_agent_cannot_execute_mission ... FAILED
 
 assertion failed: !agent.can_execute_mission()
@@ -91,7 +91,7 @@ cargo test
 
 Ви побачите вивід:
 
-```
+```rust
 running 1 test
 test test_add ... ok
 
@@ -184,7 +184,7 @@ fn test_equality() {
 
 Коли `assert_eq!` падає, ви бачите чітке повідомлення:
 
-```
+```text
 thread 'test_equality' panicked at 'assertion failed: `(left == right)`
   left: `42`,
  right: `43`'

@@ -45,7 +45,7 @@
 
 ### В.2.1. Три підходи
 
-```
+```text
 ┌─────────────────────────────────────────────────────────────────┐
 │                    СТРАТЕГІЇ МІГРАЦІЇ                           │
 ├─────────────────┬─────────────────────┬─────────────────────────┤
@@ -424,7 +424,7 @@ impl Drone {
     /// ```
     /// let drone = Drone::new(1, 8);
     /// assert_eq!(drone.sensor_count(), 8);
-    /// ```
+    /// ```rust
     pub fn new(id: i32, num_sensors: usize) -> Self {
         Self {
             id,
@@ -1156,7 +1156,7 @@ impl MavlinkConnection {
     ///
     /// ```no_run
     /// let conn = MavlinkConnection::new("/dev/ttyUSB0", 57600)?;
-    /// ```
+    /// ```rust
     pub fn new(port: &str, baudrate: i32) -> Result<Self, MavlinkError> {
         let c_port = CString::new(port)
             .map_err(|_| MavlinkError::InvalidPort)?;

@@ -143,7 +143,7 @@ fn main() {
 
 **Результат компіляції:**
 
-```
+```text
 error[E0384]: cannot assign twice to immutable variable `battery_level`
  --> src/main.rs:5:5
   |
@@ -201,7 +201,7 @@ fn main() {
 
 **Результат виконання:**
 
-```
+```text
 Початковий рівень батареї: 100%
 Після першого етапу: 95%
 Після другого етапу: 87%
@@ -233,7 +233,7 @@ fn main() {
 
 **Результат:**
 
-```
+```text
 Перша x: 5
 Друга x: 6
 Третя x: 12
@@ -331,7 +331,7 @@ let sensor: f64 = sensor.parse().expect("...");
 
 **Приклад з 8 бітами (1 байт):**
 
-```
+```text
 Двійкове    Десяткове
 00000000    0
 00000001    1
@@ -520,7 +520,7 @@ fn main() {
 ```
 
 Результат:
-```
+```text
 thread 'main' panicked at 'attempt to add with overflow', src/main.rs:3:20
 ```
 
@@ -1109,7 +1109,7 @@ fn main() {
 ### Помилка: "cannot assign twice to immutable variable"
 
 **Симптоми:**
-```
+```text
 error[E0384]: cannot assign twice to immutable variable `x`
 ```
 
@@ -1124,7 +1124,7 @@ x = 10;
 ### Помилка: "mismatched types"
 
 **Симптоми:**
-```
+```text
 error[E0308]: mismatched types
 expected `i32`, found `f64`
 ```

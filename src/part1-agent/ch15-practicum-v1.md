@@ -18,7 +18,7 @@
 
 ### Структура проєкту
 
-```
+```text
 autonomous_agent_v1/
 ├── Cargo.toml
 ├── README.md
@@ -59,7 +59,7 @@ autonomous_agent_v1/
 
 ### Залежності між модулями
 
-```
+```text
 main.rs
    │
    ▼

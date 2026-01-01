@@ -4,7 +4,7 @@
 
 У попередніх розділах ви використовували прості типи для помилок: рядки, базові enum'и, `Box<dyn Error>`. Для навчальних прикладів це працює, але уявіть production систему:
 
-```
+```text
 Error: something went wrong
 ```
 
@@ -180,7 +180,7 @@ fn main() {
 4. Кожен рівень вкладеності показує наступну причину
 
 **Вивід:**
-```
+```rust
 Error: Failed to read file 'nonexistent_config.toml'
   Caused by: No such file or directory (os error 2)
 ```
@@ -441,7 +441,7 @@ fn main() {
 ```
 
 **Вивід:**
-```
+```text
 Simple error message
 Error with value: 42
 Error at position (10, 20)
@@ -499,7 +499,7 @@ fn main() {
 
 Плоский enum з 20+ варіантами — кошмар для підтримки. Краще організувати в ієрархію:
 
-```
+```text
 MissionError (верхній рівень)
 ├── Hardware
 │   ├── SensorOffline
@@ -916,7 +916,7 @@ fn main() {
 ```
 
 **Вивід:**
-```
+```text
 Mission failed:
   0: Reading humidity sensor
   1: Sensor 'broken' is offline
