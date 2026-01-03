@@ -10,7 +10,7 @@
 | 3 | **Система володіння — серце Rust** | `Move`, `Copy`, `Clone`, `Drop`, `Borrowing` | 7 |
  
  
-## Лекція 1
+### Лекція 1
 
 <iframe src="./lectures/1_Rust.pdf" width="100%" height="700px"></iframe>
 
