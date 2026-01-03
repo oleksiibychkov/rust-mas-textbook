@@ -1,12 +1,12 @@
 [book]
 title = "Розум Рою: Програмування мультиагентних систем мовою Rust"
-authors = ["Проф. Олександр Терещенко"]
+authors = ["Професор О.С.Бичков"]
 description = "Наскрізний проєкт: Інтелектуальний автономний рій БПЛА. 52 розділи • ~200 годин • Від нуля до production"
 language = "uk"
 src = "src"
 
 [rust]
-edition = "2021"
+edition = "2023"
 
 [build]
 build-dir = "book"
@@ -16,7 +16,7 @@ create-missing = false
 default-theme = "rust"
 preferred-dark-theme = "coal"
 smart-punctuation = true
-git-repository-url = "https://github.com/USERNAME/rust-mas-textbook"
+git-repository-url = "https://github.com/oleksiibychkov/rust-mas-textbook"
 git-repository-icon = "fa-github"
 edit-url-template = "https://github.com/USERNAME/rust-mas-textbook/edit/main/{path}"
 site-url = "/rust-mas-textbook/"
