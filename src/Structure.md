@@ -3,17 +3,21 @@
 
 ### **Блон Всуп: Основи мови Rust**
 
-| № | Тема лекції | Ключові поняття | Розділи підручника | Посилання на лекцію |
-|---|-------------|-----------------|-------------------|----------------------|
+| № | Тема лекції | Ключові поняття | Розділи підручника | Лекція |
+|---|-------------|-----------------|-------------------|---------|
 | 1 | **Інструменти. Основи синтаксису** | `Cargo`, `let`, `if`, `loop`, `while` | 1-4 | [Переглянути](#лекція-1)
 | 2 | **Структури даних у Rust** | `[T; N]`, `(T1, T2, ...)`, `&[T]`, `struct` | 5 |
 | 3 | **Система володіння — серце Rust** | `Move`, `Copy`, `Clone`, `Drop`, `Borrowing` | 7 |
  
  
 ### Лекція 1
-
 <iframe src="./lectures/1_Rust.pdf" width="100%" height="700px"></iframe>
 
+### Лекція 2
+<iframe src="./lectures/1_Rust.pdf" width="100%" height="700px"></iframe>
+
+### Лекція 3
+<iframe src="./lectures/1_Rust.pdf" width="100%" height="700px"></iframe>
 
 ### **Блок A: Колекції та обробка даних**
 
@@ -23,7 +27,14 @@
 | 5 | **Колекції: HashMap та HashSet** | `HashMap<K,V>`, `HashSet<T>`, `entry()`, `insert`, `get` | 17 |
 | 6 | **Обробка помилок: Option та Result** | `Option<T>`, `Result<T,E>`, `?`, `unwrap`, `map`, `and_then` | 18-19 |
 
+### Лекція 4
+<iframe src="./lectures/1_Rust.pdf" width="100%" height="700px"></iframe>
 
+### Лекція 5
+<iframe src="./lectures/1_Rust.pdf" width="100%" height="700px"></iframe>
+
+### Лекція 6
+<iframe src="./lectures/1_Rust.pdf" width="100%" height="700px"></iframe>
 
 ### **Блок B: Трейти та узагальнення**
 
@@ -32,6 +43,11 @@
 | 7 | **Traits: Поліморфізм у Rust** | `trait`, `impl Trait for`, `derive`, `Display`, `Debug`, `Clone` | 22-23 |
 | 8 | **Generics та Trait Bounds** | `<T>`, `where`, `impl Trait`, монорфізація | 24-25 |
 
+### Лекція 7
+<iframe src="./lectures/1_Rust.pdf" width="100%" height="700px"></iframe>
+
+### Лекція 8
+<iframe src="./lectures/1_Rust.pdf" width="100%" height="700px"></iframe>
 
 
 ### **Блок C: Smart Pointers**
@@ -42,6 +58,14 @@
 | 10 | **RefCell та Interior Mutability** | `RefCell<T>`, `Cell<T>`, runtime borrow checking | 30-31 |
 | 11 | **Lifetimes: Час життя посилань** | `'a`, lifetime annotations, `'static` | 32 |
 
+### Лекція 9
+<iframe src="./lectures/1_Rust.pdf" width="100%" height="700px"></iframe>
+
+### Лекція 10
+<iframe src="./lectures/1_Rust.pdf" width="100%" height="700px"></iframe>
+
+### Лекція 11
+<iframe src="./lectures/1_Rust.pdf" width="100%" height="700px"></iframe>
 
 ### **Блок D: Багатопотоковість (ключовий для МАС)**
 
@@ -52,6 +76,17 @@
 | 14 | **Channels: Message Passing** | `mpsc::channel`, `Sender`, `Receiver`, `send`, `recv`, `try_recv` | 35 |
 | 15 | **Практикум: Локальний рій агентів** | Інтеграція потоків, Arc, Mutex, channels | 36 |
 
+### Лекція 12
+<iframe src="./lectures/1_Rust.pdf" width="100%" height="700px"></iframe>
+
+### Лекція 13
+<iframe src="./lectures/1_Rust.pdf" width="100%" height="700px"></iframe>
+
+### Лекція 14
+<iframe src="./lectures/1_Rust.pdf" width="100%" height="700px"></iframe>
+
+### Лекція 15
+<iframe src="./lectures/1_Rust.pdf" width="100%" height="700px"></iframe>
 
 
 ### **Блок E: Асинхронність (масштабування МАС)**
@@ -63,6 +98,17 @@
 | 18 | **Async Channels та синхронізація** | `tokio::sync::mpsc`, `broadcast`, async `Mutex` | 39 |
 | 19 | **Streams: Async ітератори** | `Stream`, `StreamExt`, `map`, `filter`, `merge` | 40 |
 
+### Лекція 16
+<iframe src="./lectures/1_Rust.pdf" width="100%" height="700px"></iframe>
+
+### Лекція 17
+<iframe src="./lectures/1_Rust.pdf" width="100%" height="700px"></iframe>
+
+### Лекція 18
+<iframe src="./lectures/1_Rust.pdf" width="100%" height="700px"></iframe>
+
+### Лекція 19
+<iframe src="./lectures/1_Rust.pdf" width="100%" height="700px"></iframe>
 
 ### **Блок F: Архітектури МАС**
 
@@ -74,6 +120,20 @@
 | 23 | **ECS: Entity-Component-System** | Entity, Component, System, `bevy_ecs`, queries | 48 |
 | 24 | **BDI: Beliefs-Desires-Intentions** | BDI цикл, планування, goal-directed behavior | 49 |
 
+### Лекція 20
+<iframe src="./lectures/1_Rust.pdf" width="100%" height="700px"></iframe>
+
+### Лекція 21
+<iframe src="./lectures/1_Rust.pdf" width="100%" height="700px"></iframe>
+
+### Лекція 22
+<iframe src="./lectures/1_Rust.pdf" width="100%" height="700px"></iframe>
+
+### Лекція 23
+<iframe src="./lectures/1_Rust.pdf" width="100%" height="700px"></iframe>
+
+### Лекція 24
+<iframe src="./lectures/1_Rust.pdf" width="100%" height="700px"></iframe>
 
 ## Візуалізація вивчення МАС
 
