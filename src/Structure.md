@@ -6,18 +6,18 @@
 | № | Тема лекції | Ключові поняття | Розділи підручника | Лекція |
 |---|-------------|-----------------|-------------------|---------|
 | 1 | **Інструменти. Основи синтаксису** | `Cargo`, `let`, `if`, `loop`, `while` | 1-4 | [Переглянути](#лекція-1)
-| 2 | **Структури даних у Rust** | `[T; N]`, `(T1, T2, ...)`, `&[T]`, `struct` | 5 |
-| 3 | **Система володіння — серце Rust** | `Move`, `Copy`, `Clone`, `Drop`, `Borrowing` | 7 |
+| 2 | **Структури даних у Rust** | `[T; N]`, `(T1, T2, ...)`, `&[T]`, `struct` | 5 | [Переглянути](#лекція-2)
+| 3 | **Система володіння — серце Rust** | `Move`, `Copy`, `Clone`, `Drop`, `Borrowing` | 7 | [Переглянути](#лекція-3)
  
  
 ### Лекція 1
-<iframe src="./lectures/1_Rust.pdf" width="100%" height="700px"></iframe>
+<iframe src="./lectures/1.pdf" width="100%" height="700px"></iframe>
 
 ### Лекція 2
-<iframe src="./lectures/1_Rust.pdf" width="100%" height="700px"></iframe>
+<iframe src="./lectures/2.pdf" width="100%" height="700px"></iframe>
 
 ### Лекція 3
-<iframe src="./lectures/1_Rust.pdf" width="100%" height="700px"></iframe>
+<iframe src="./lectures/3.pdf" width="100%" height="700px"></iframe>
 
 ### **Блок A: Колекції та обробка даних**
 
