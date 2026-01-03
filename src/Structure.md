@@ -6,12 +6,14 @@
 | № | Тема лекції | Ключові поняття | Розділи підручника | Посилання на лекцію |
 |---|-------------|-----------------|-------------------|----------------------|
 | 1 | **Інструменти. Основи синтаксису** | `Cargo`, `let`, `if`, `loop`, `while` | 1-4 | [Переглянути](#лекція-1)
-| 2 | **Структури даних у Rust** | `[T; N]`, `(T1, T2, ...)`, `&[T]`, `struct` | 5 |
-| 3 | **Система володіння — серце Rust** | `Move`, `Copy`, `Clone`, `Drop`, `Borrowing` | 7 |
+| 2 | **Структури даних у Rust** | `[T; N]`, `(T1, T2, ...)`, `&[T]`, `struct` | 5 | [Переглянути](#лекція-1)
+| 3 | **Система володіння — серце Rust** | `Move`, `Copy`, `Clone`, `Drop`, `Borrowing` | 7 | [Переглянути](#лекція-1)
  
  
-## Лекція 1
+#### Лекція 1
 
+<iframe src="./lectures/1.pdf" width="100%" height="700px"></iframe>
+<iframe src="./lectures/1.pdf" width="100%" height="700px"></iframe>
 <iframe src="./lectures/1.pdf" width="100%" height="700px"></iframe>
 
 
@@ -23,7 +25,9 @@
 | 5 | **Колекції: HashMap та HashSet** | `HashMap<K,V>`, `HashSet<T>`, `entry()`, `insert`, `get` | 17 |
 | 6 | **Обробка помилок: Option та Result** | `Option<T>`, `Result<T,E>`, `?`, `unwrap`, `map`, `and_then` | 18-19 |
 
-
+<iframe src="./lectures/1.pdf" width="100%" height="700px"></iframe>
+<iframe src="./lectures/1.pdf" width="100%" height="700px"></iframe>
+<iframe src="./lectures/1.pdf" width="100%" height="700px"></iframe>
 
 ### **Блок B: Трейти та узагальнення**
 
@@ -32,7 +36,8 @@
 | 7 | **Traits: Поліморфізм у Rust** | `trait`, `impl Trait for`, `derive`, `Display`, `Debug`, `Clone` | 22-23 |
 | 8 | **Generics та Trait Bounds** | `<T>`, `where`, `impl Trait`, монорфізація | 24-25 |
 
-
+<iframe src="./lectures/1.pdf" width="100%" height="700px"></iframe>
+<iframe src="./lectures/1.pdf" width="100%" height="700px"></iframe>
 
 ### **Блок C: Smart Pointers**
 
@@ -42,6 +47,9 @@
 | 10 | **RefCell та Interior Mutability** | `RefCell<T>`, `Cell<T>`, runtime borrow checking | 30-31 |
 | 11 | **Lifetimes: Час життя посилань** | `'a`, lifetime annotations, `'static` | 32 |
 
+<iframe src="./lectures/1.pdf" width="100%" height="700px"></iframe>
+<iframe src="./lectures/1.pdf" width="100%" height="700px"></iframe>
+<iframe src="./lectures/1.pdf" width="100%" height="700px"></iframe>
 
 ### **Блок D: Багатопотоковість (ключовий для МАС)**
 
@@ -52,6 +60,10 @@
 | 14 | **Channels: Message Passing** | `mpsc::channel`, `Sender`, `Receiver`, `send`, `recv`, `try_recv` | 35 |
 | 15 | **Практикум: Локальний рій агентів** | Інтеграція потоків, Arc, Mutex, channels | 36 |
 
+<iframe src="./lectures/1.pdf" width="100%" height="700px"></iframe>
+<iframe src="./lectures/1.pdf" width="100%" height="700px"></iframe>
+<iframe src="./lectures/1.pdf" width="100%" height="700px"></iframe>
+<iframe src="./lectures/1.pdf" width="100%" height="700px"></iframe>
 
 
 ### **Блок E: Асинхронність (масштабування МАС)**
@@ -63,6 +75,10 @@
 | 18 | **Async Channels та синхронізація** | `tokio::sync::mpsc`, `broadcast`, async `Mutex` | 39 |
 | 19 | **Streams: Async ітератори** | `Stream`, `StreamExt`, `map`, `filter`, `merge` | 40 |
 
+<iframe src="./lectures/1.pdf" width="100%" height="700px"></iframe>
+<iframe src="./lectures/1.pdf" width="100%" height="700px"></iframe>
+<iframe src="./lectures/1.pdf" width="100%" height="700px"></iframe>
+<iframe src="./lectures/1.pdf" width="100%" height="700px"></iframe>
 
 ### **Блок F: Архітектури МАС**
 
@@ -74,6 +90,11 @@
 | 23 | **ECS: Entity-Component-System** | Entity, Component, System, `bevy_ecs`, queries | 48 |
 | 24 | **BDI: Beliefs-Desires-Intentions** | BDI цикл, планування, goal-directed behavior | 49 |
 
+<iframe src="./lectures/1.pdf" width="100%" height="700px"></iframe>
+<iframe src="./lectures/1.pdf" width="100%" height="700px"></iframe>
+<iframe src="./lectures/1.pdf" width="100%" height="700px"></iframe>
+<iframe src="./lectures/1.pdf" width="100%" height="700px"></iframe>
+<iframe src="./lectures/1.pdf" width="100%" height="700px"></iframe>
 
 ## Візуалізація вивчення МАС
 
