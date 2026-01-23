@@ -16,6 +16,10 @@
 - [Розділ 5: Прості структури даних (Stack-only)](./part0-bootcamp/ch05-data-structures.md)
 - [Розділ 6: Область видимості змінних у Rust](./part0-bootcamp/ch06-scope.md)
 - [Розділ 7: Практикум — Агент-патрульний на сітці](./part0-bootcamp/ch07-practicum.md)
+- [Розділ 8: Підступні задачі з дійсними числами](./part0-bootcamp/ch08-real-error.md)
+- [Розділ 9: Підступне виконання умовних операторів](./part0-bootcamp/ch09-conditional-operators.md)
+- [Розділ 10: Підступні задачі з операторами циклу](./part0-bootcamp/ch10_loops.md)
+- [Розділ 11: Підступні задачі з функціями](./part0-bootcamp/ch11_functions_pitfalls.md)
 
 ---
 
