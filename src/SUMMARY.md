@@ -105,6 +105,25 @@
 
 ---
 
+# Частина VI: Практичний курс
+
+- [Розділ 53: Практичне заняття 1: Перші кроки в Rust](./practical/practical_01_first_steps.md)
+- [Розділ 54: Практичне заняття 2: Змінні та типи даних](./practical/practical_02_variables.md)
+- [Розділ 55: Практичне заняття 3: Функції](./practical/practical_03_functions.md)
+- [Розділ 56: Практичне заняття 4: Умовні оператори](./practical/practical_04_conditionals.md)
+- [Розділ 57: Практичне заняття 5: Цикли](./practical/practical_05_loops.md)
+- [Розділ 58: Практичне заняття 6: Кортежі та масиви](./practical/practical_06_tuples_arrays.md)
+- [Розділ 59: Практичне заняття 7: Ownership та Borrowing](./practical/practical_07_ownership.md)
+- [Розділ 60: Практичне заняття 8: Структури та Enum](./practical/practical_08_structs_enums.md)
+- [Розділ 61: Практичне заняття 9: Колекції (Vec, HashMap, String)](./practical/practical_09_collections.md)
+- [Розділ 62: Практичне заняття 10: Обробка помилок (Result, оператор ?)](./practical/practical_10_error_handling.md)
+- [Розділ 63: Практичне заняття 11: Traits та Generics](./practical/practical_11_traits_generics.md)
+- [Розділ 64: Практичне заняття 12: Lifetimes (час життя посилань)](./practical/practical_12_lifetimes.md)
+- [Розділ 65: Практичне заняття 13: Багатопотоковість (Threads, Arc, Mutex)](./practical/practical_13_threads.md)
+- [Розділ 66: Практичне заняття 14: Async/Await та Tokio](./practical/practical_14_async.md)
+
+
+
 # Додатки
 
 - [Післямова](./afterword.md)
