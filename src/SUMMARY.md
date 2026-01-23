@@ -20,6 +20,17 @@
 - [Розділ 9: Підступне виконання умовних операторів](./part0-bootcamp/ch09-conditional-operators.md)
 - [Розділ 10: Підступні задачі з операторами циклу](./part0-bootcamp/ch10_loops.md)
 - [Розділ 11: Підступні задачі з функціями](./part0-bootcamp/ch11_functions_pitfalls.md)
+- [Розділ 12: Підступні задачі з цілими числами](./part0-bootcamp/ch12_integer_pitfalls.md)
+- [Розділ 13: Підступні задачі з рядками та текстом](./part0-bootcamp/ch13_strings_pitfalls.md)
+- [Розділ 14: Підступні задачі з колекціями](./part0-bootcamp/ch14_collections_pitfalls.md)
+- [Розділ 15: Підступні задачі з часом та датами](./part0-bootcamp/ch15_datetime_pitfalls.md)
+- [Розділ 16: Підступні задачі з обробкою помилок](./part0-bootcamp/ch16_error_handling_pitfalls.md)
+- [Розділ 17: Підступні задачі з паралелізмом](./part0-bootcamp/ch17_concurrency_pitfalls.md)
+- [Розділ 18: Робота з файлами та шляхами](./part0-bootcamp/ch18_files_paths_pitfalls.md)
+- [Розділ 19: Підступні задачі з серіалізацією](./part0-bootcamp/ch19_serialization_pitfalls.md)
+- [Розділ 20: Підступні задачі з пам'яттю та ресурсами](./part0-bootcamp/ch20_memory_pitfalls.md)
+
+
 
 ---
 
