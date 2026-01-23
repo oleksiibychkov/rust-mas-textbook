@@ -15,7 +15,7 @@
 - [Розділ 4: Керування потоком виконання](./part0-bootcamp/ch04-control-flow.md)
 - [Розділ 5: Прості структури даних (Stack-only)](./part0-bootcamp/ch05-data-structures.md)
 - [Розділ 6: Область видимості змінних у Rust](./part0-bootcamp/ch06-scope.md)
-- [Розділ 6: Практикум — Агент-патрульний на сітці](./part0-bootcamp/ch07-practicum.md)
+- [Розділ 7: Практикум — Агент-патрульний на сітці](./part0-bootcamp/ch07-practicum.md)
 
 ---
 
