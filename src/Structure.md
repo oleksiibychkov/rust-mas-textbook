@@ -12,9 +12,13 @@
  
 #### Лекція 1
 
+<<<<<<< HEAD
 <iframe src="./lectures/1.pdf" width="100%" height="700px"></iframe>
 <iframe src="./lectures/1.pdf" width="100%" height="700px"></iframe>
 <iframe src="./lectures/1.pdf" width="100%" height="700px"></iframe>
+=======
+<iframe src="./lectures/1_Rust.pdf" width="100%" height="700px"></iframe>
+>>>>>>> 44b6d7735544597c2de57fc01513284a726e5953
 
 
 ### **Блок A: Колекції та обробка даних**
