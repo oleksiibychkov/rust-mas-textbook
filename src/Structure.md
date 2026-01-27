@@ -103,7 +103,9 @@
 ```
 ### Домашні, практичні, лабораторні  завдання
 
-- Практичне заняття 1: Перші кроки в Rust(<a href="./practical/practical_01_first_steps.md>
+Для виконання РНП необхідно зробити і захистити 7 робіт
+
+- [Розділ 53: Практичне заняття 1: Перші кроки в Rust](./practical/practical_01_first_steps.md)
 - [Розділ 54: Практичне заняття 2: Змінні та типи даних](./practical/practical_02_variables.md)
 - [Розділ 55: Практичне заняття 3: Функції](./practical/practical_03_functions.md)
 - [Розділ 56: Практичне заняття 4: Умовні оператори](./practical/practical_04_conditionals.md)
